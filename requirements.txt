@@ -27,6 +27,7 @@ mrjob==0.4.3.post7
 -e git://github.com/kdparker/python-mysql-replication.git#egg=mysql-replication
 pep8==1.5.7
 pii_generator==0.1.5
+pip>=1.5.5
 ply==3.4
 py==1.4.29
 pycrypto==2.6.1
